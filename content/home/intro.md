@@ -19,4 +19,5 @@ author: admin
 ---
 
 Kaixo! **Xabi** naiz, euskal eduki sortzailea, magoa eta informatikaria.
+
 Hemen ikusi ditzakezue nire proiektuak :)
