@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: Dena
       tag: '*'
-    - name: Eduki Sorkuntza
+    - name: Eduki Sortzailea
       tag: eduki
     - name: Magia
       tag: magia
-    - name: Aurreko proiektuak
+    - name: Besteak
       tag: beste
 
 design:
