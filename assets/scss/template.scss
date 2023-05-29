@@ -5,8 +5,12 @@ body {
   background-color: #ffffff;
 }
 
+.dark body {
+  background-color: #161638;
+}
+
 .article-container {
-  background-color: #fff;
+  background-color: #ffffff;
   border-radius: 15px;
 }
 
@@ -22,6 +26,8 @@ body {
 .dark .page-footer {
   background-color: #161638;
 }
+
+
 
 // more rounded cards and larger gap between cards
 .card-simple {
