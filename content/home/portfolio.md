@@ -26,14 +26,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Dena
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Eduki Sorkuntza
+      tag: eduki
+    - name: Magia
+      tag: magia
+    - name: Bestelakoak
+      tag: beste
 
 design:
   columns: '1'
