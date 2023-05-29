@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ♠︎♠️
+  icon: ♠️
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Euskal eduki sortzailea eta magoa.
+bio: Euskal eduki sortzailea, magoa eta informatikaria.
 
 #interests:
 #- Artificial Intelligence
@@ -66,4 +66,4 @@ social:
 #email: ""
 ---
 
-Euskal eduki sortzailea eta magoa.
+Euskal eduki sortzailea, magoa eta informatikaria.
