@@ -18,4 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Kaixo! **Xabi** naiz, euskal eduki sortzailea, magoa eta informatikaria. Hemen ikusi ditzakezue nire proiektuak :)
+Kaixo! **Xabi** naiz, euskal eduki sortzailea, magoa eta informatikaria.
+Hemen ikusi ditzakezue nire proiektuak :)
