@@ -32,7 +32,7 @@ content:
       tag: eduki
     - name: Magia
       tag: magia
-    - name: Bestelakoak
+    - name: Aurreko proiektuak
       tag: beste
 
 design:
