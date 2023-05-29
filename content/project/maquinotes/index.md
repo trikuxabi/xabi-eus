@@ -1,6 +1,6 @@
 ---
 title: Maquinitas y Maquinotes
-summary: [Gazteleraz] Bideojokoei buruzko webgune eta podcasta izan zen.
+summary: Gazteleraz - Bideojokoei buruzko webgune eta podcasta izan zen.
 tags:
   - beste
 date: 2022-01-01
