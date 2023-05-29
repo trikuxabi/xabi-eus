@@ -57,8 +57,8 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://mastodon.eus/@trikuxabi
-  - icon: film-light
-    icon_pack: fas
+  - icon: film
+    icon_pack: fas-light
     link: https://letterboxd.com/trikuxabi
 # Uncomment below for Github link
 #- icon: github
