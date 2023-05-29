@@ -51,6 +51,12 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/trikuxabi
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.eus/@trikuxabi
+  - icon: letterboxd
+    icon_pack: fab
+    link: https://letterboxd.com/trikuxabi
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
