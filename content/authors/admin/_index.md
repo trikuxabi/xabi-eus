@@ -42,9 +42,6 @@ bio: Euskal eduki sortzailea, magoa eta informatikaria.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link:  "mailto:xabi@trikuxabi.eus"
   - icon: twitch
     icon_pack: fab
     link: https://twitch.tv/trikuxabi
@@ -54,6 +51,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/trikuxabi
+  - icon: envelope
+    icon_pack: fas
+    link:  "mailto:xabi@trikuxabi.eus"
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
