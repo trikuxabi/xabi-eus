@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Harremanetan jartzeko helbidea
+title: Harremanetan jartzeko
 subtitle: xabi@trikuxabi.eus
 
 content:
