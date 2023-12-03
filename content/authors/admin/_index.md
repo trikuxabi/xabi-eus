@@ -48,18 +48,12 @@ social:
   - icon: twitch
     icon_pack: fab
     link: https://twitch.tv/trikuxabi
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCEFxACvIh_YiuBD34lVGpMA
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/trikuxabi
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/trikuxabi
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.eus/@trikuxabi
-  - icon: film
-    icon_pack: fas
-    link: https://letterboxd.com/trikuxabi
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
