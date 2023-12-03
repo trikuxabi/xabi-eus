@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Xabi Linazasoro {year}.'
+    notice: '© Xabi Linazasoro Lizaso {year}.'
     license:
       enable: true
       allow_derivatives: false
