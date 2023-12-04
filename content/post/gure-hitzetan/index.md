@@ -1,21 +1,6 @@
 ---
-type: widget_page
-
-# This file represents a page section.
-headless: false
-
-# Order that this section will appear in.
-weight: 20
-
-author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
-
+title: Gure Hitzetan
+date: 2023-12-04
 ---
 
 **Gure Hitzetan** euskaraz eginiko lehen magia liburua da. Elene Mendizabal (@elemelonsv) eta biok burutu genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
