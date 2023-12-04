@@ -1,6 +1,6 @@
 ---
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section will appear in.
 weight: 20
@@ -15,13 +15,6 @@ author: admin
 #  css_class: fullscreen
 
 ---
-
-image:
-  placement: 1
-  focal_point: 'Center'
-  preview_only: false
-  filename: 'gh.jpg'  # Uncomment to load an image from `assets/media/` instead.
-
 
 **Gure Hitzetan** euskaraz eginiko lehen magia liburua da. Elene Mendizabal (@elemelonsv) eta biok burutu genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
 
