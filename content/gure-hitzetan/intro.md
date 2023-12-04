@@ -18,7 +18,7 @@ image:
   placement: 1
   focal_point: 'Center'
   preview_only: false
-   filename: gh.jpg  # Uncomment to load an image from `assets/media/` instead.
+  filename: 'gh.jpg'  # Uncomment to load an image from `assets/media/` instead.
 
 ---
 
