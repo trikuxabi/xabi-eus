@@ -19,7 +19,7 @@ image:
   placement: 1
   focal_point: 'Center'
   preview_only: false
-	filename: gh.jpg
+	filename: 'gh.jpg'
 
 ---
 
