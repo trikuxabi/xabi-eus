@@ -1,10 +1,9 @@
 ---
-
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section will appear in.
-weight: 10
+weight: 20
 
 author: admin
 #design:
@@ -15,9 +14,7 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 
-
-
-	---
+---
 
 	**Gure Hitzetan** euskaraz eginiko lehen magia liburua da. Elene Mendizabal (@elemelonsv) eta biok egin genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
 
