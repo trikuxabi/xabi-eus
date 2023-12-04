@@ -15,11 +15,7 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 
-image:
-	placement: 1
-	focal_point: 'Center'
-	preview_only: false
-	filename: "gh.jpg"
+
 
 	---
 
