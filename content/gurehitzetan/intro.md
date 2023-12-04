@@ -14,7 +14,15 @@ author: admin
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+
+image:
+  placement: 1
+  focal_point: 'Center'
+  preview_only: false
+
 ---
+
+
 
 **Gure Hitzetan** euskaraz eginiko lehen magia liburua da. Elene Mendizabal (@elemelonsv) eta biok egin genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
 
