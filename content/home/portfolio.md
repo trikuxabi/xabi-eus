@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: Dena
       tag: '*'
-    - name: Eduki Sortzailea
+    - name: Eduki sortzailea
       tag: eduki
     - name: Magia
       tag: magia
