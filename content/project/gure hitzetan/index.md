@@ -4,5 +4,5 @@ summary: Euskarazko lehen magia liburua.
 tags:
   - magia
 date: 2023-09-28
-external_link: 'http://trikuxabi.eus/gurehitzetan/'
+external_link: 'http://trikuxabi.eus/gure-hitzetan/'
 ---

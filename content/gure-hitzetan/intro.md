@@ -14,9 +14,15 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 
+image:
+  placement: 1
+  focal_point: 'Center'
+  preview_only: false
+  # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
+
 ---
 
-	**Gure Hitzetan** euskaraz eginiko lehen magia liburua da. Elene Mendizabal (@elemelonsv) eta biok egin genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
+**Gure Hitzetan** euskaraz eginiko lehen magia liburua da. Elene Mendizabal (@elemelonsv) eta biok burutu genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
 
 Liburu honetan hainbat ideia berri aurkezteaz gain, ordurarte atzerriko hizkuntzetan bakarrik egin zitezkeen magia efektu batzuk euskaratu genituen. Azkenean, mentalismoko efektu asko biltzen zituen bilduma batean bilakatu zen, aurkezpen dibertigarri eta anitzak egiteko aukera eskaintzen zuena.
 
