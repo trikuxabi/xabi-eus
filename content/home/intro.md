@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Kaixo! **Xabi** naiz, euskal mago eta eduki sortzailea.
+Kaixo! **Xabi Lizaso** naiz, euskal mago eta eduki sortzailea.
 
 Hemen ikusi ditzakezue nire proiektuak, edozein proposamen baduzue idatzi mezu bat :)
