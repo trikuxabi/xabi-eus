@@ -20,7 +20,6 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'trikuxabi eduki sortzailearen webgunea'
-    twitter: 'trikuxabi'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Xabi Linazasoro Lizaso {year}.'
+    notice: '© Xabi Lizaso {year}.'
     license:
       enable: true
       allow_derivatives: false

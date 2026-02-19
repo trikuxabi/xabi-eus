@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Euskal magoa, eduki sortzailea eta informatikaria.
+bio: Euskal eduki sortzailea eta magoa.
 
 #interests:
 #- Artificial Intelligence
@@ -44,10 +44,16 @@ bio: Euskal magoa, eduki sortzailea eta informatikaria.
 social:
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/channel/UCEFxACvIh_YiuBD34lVGpMA
-  - icon: twitch
+    link: https://www.youtube.com/@trikuxabi
+  - icon: instagram
     icon_pack: fab
-    link: https://twitch.tv/trikuxabi
+    link: https://www.instagram.com/trikuxabi/
+  - icon: tiktok
+    icon_pack: fab
+    link: https://www.tiktok.com/@trikuxabi
+#  - icon: twitch
+#    icon_pack: fab
+#    link: https://twitch.tv/trikuxabi
   - icon: envelope
     icon_pack: fas
     link:  "mailto:xabi@trikuxabi.eus"
@@ -66,4 +72,4 @@ social:
 #email: ""
 ---
 
-Euskal magoa, eduki sortzailea eta informatikaria.
+Euskal eduki sortzailea eta magoa.

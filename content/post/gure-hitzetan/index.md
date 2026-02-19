@@ -7,7 +7,7 @@ reading_time: false
 show_breadcrumb: false
 ---
 
-**Gure Hitzetan** euskaraz eginiko lehen magia liburua da. Elene Mendizabal (@elemelonsv) eta biok burutu genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
+**Gure Hitzetan** euskaraz eginiko lehen magia liburu profesionala da. Elene Mendizabal (@elemelonsv) eta biok burutu genuen proiektua 2023an zehar eta autopublikazioaren bitartez kaleratu zen urte bereko abenduan.
 
 Liburu honetan hainbat ideia berri aurkezteaz gain, ordurarte atzerriko hizkuntzetan bakarrik egin zitezkeen magia efektu batzuk euskaratu genituen. Azkenean, mentalismoko efektu asko biltzen zituen bilduma bilakatu zen, aurkezpen dibertigarri eta anitzak egiteko aukera eskaintzen zuena.
 
