@@ -7,7 +7,7 @@ main:
   - name: Hasiera
     url: /
     weight: 10
-  - name: Kafea
+  - name: Kafetxo bat?
     url: /kafea
     weight: 20
 
