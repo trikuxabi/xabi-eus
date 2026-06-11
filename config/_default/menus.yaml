@@ -7,6 +7,9 @@ main:
   - name: Hasiera
     url: /
     weight: 10
+  - name: Kafea
+    url: /kafea
+    weight: 20
 
 #  - name: Resumé
 #    url: about/
