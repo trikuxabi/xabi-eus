@@ -1,6 +1,5 @@
 ---
 title: Kafetxo bat?
-redirect_url: https://ko-fi.com/trikuxabi
 ---
 
 Nire edukia gustuko baduzu, kafe batekin babestu dezakezu. Jasotako guztia eduki sorkuntza proiektuetan erabiliko da beti, izan bideo ala podcastak. Eskerrik asko honela edo beste inola nire lana babesten duzuen guztiei <3

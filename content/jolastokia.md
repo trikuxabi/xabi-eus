@@ -1,6 +1,5 @@
 ---
 title: JOLASTOKIA
-redirect_url: https://ko-fi.com/trikuxabi
 ---
 
 Bideojoko podcast hau edozein podcast plataformatan topatu dezakezu, eta astelehenero kaleratuko da atal berri bat.
