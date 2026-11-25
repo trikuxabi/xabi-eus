@@ -31,13 +31,13 @@ Ikusi egin beharreko teknikak.
 {{< youtube Pwi_LIFL7lw >}}
 
 ### Arrakero alaena!
-{{< youtube qk6zuxwfyEg >}}
+{{< youtube joGj-A8vJxY >}}
 
 ### Apustu sinesgaitza
-{{< youtube qk6zuxwfyEg >}}
+{{< youtube -Lg9muCTWsE >}}
 
 ### Egizu neuk bezalaxe
-{{< youtube qk6zuxwfyEg >}}
+{{< youtube OaTDI0wWAxQ >}}
 
 ### Chicagora bidaia
 {{< youtube qk6zuxwfyEg >}}
