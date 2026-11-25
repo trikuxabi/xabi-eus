@@ -1,6 +1,6 @@
 ---
-title: Tarota
-summary: Euskarazko tarot baraja.
+title: Lukana
+summary: Euskal tarot magikoa.
 tags:
   - magia
 date: 2026-05-30
