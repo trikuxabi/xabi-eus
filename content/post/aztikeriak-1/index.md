@@ -1,6 +1,6 @@
 ---
 title: Aztikeriak
-date: 2026-12-04
+date: 2026-11-04
 share: false
 show_date: false
 reading_time: false
