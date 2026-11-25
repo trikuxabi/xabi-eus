@@ -55,8 +55,8 @@ Ikusi egin beharreko teknikak.
 {{< youtube qtZDWkRqGhQ >}}
 
 #### Triunfoa
-{{< youtube 9-iZPx-mqes >}}
+{{< youtube KicGkFy-vcI >}}
 
 ---
 
-~~Hau ez da amaitu. 49 irudia.~~
+~~Hau ez da amaitu.~~
