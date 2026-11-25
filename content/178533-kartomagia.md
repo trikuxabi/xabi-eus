@@ -40,10 +40,15 @@ Ikusi egin beharreko teknikak.
 {{< youtube OaTDI0wWAxQ >}}
 
 ### Chicagora bidaia
-{{< youtube qk6zuxwfyEg >}}
+{{< youtube 1ss4OdWzkbc >}}
 
 ### Karta igogailua
-{{< youtube qk6zuxwfyEg >}}
+{{< youtube qtZDWkRqGhQ >}}
 
 ### Triunfoa
-{{< youtube qk6zuxwfyEg >}}
+{{< youtube 9-iZPx-mqes >}}
+
+---
+
+{{</* spoiler text="Amaitu" */>}}
+Hau ez da amaitu. 49 irudia.
