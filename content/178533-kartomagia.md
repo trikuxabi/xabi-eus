@@ -21,34 +21,42 @@ Ikusi egin beharreko teknikak.
 
 ## Trikimailuak
 
-### Karta adierazlea
+
+### 1 atala: trikimailu automatikoak
+
+#### Karta adierazlea
 {{< youtube pHzsPvjPwNE >}}
 
-### Batekoen bila
+#### Batekoen bila
 {{< youtube B33LSgIhmHw >}}
 
-### Bateko sinpatikoak
+#### Bateko sinpatikoak
 {{< youtube Pwi_LIFL7lw >}}
 
-### Arrakero alaena!
+
+### 2 atala: jolasak bi sortarekin
+
+#### Arrakero alaena!
 {{< youtube joGj-A8vJxY >}}
 
-### Apustu sinesgaitza
+#### Apustu sinesgaitza
 {{< youtube -Lg9muCTWsE >}}
 
-### Egizu neuk bezalaxe
+#### Egizu neuk bezalaxe
 {{< youtube OaTDI0wWAxQ >}}
 
-### Chicagora bidaia
+
+### 3 atala: kartomagia klasikoa
+
+#### Chicagora bidaia
 {{< youtube 1ss4OdWzkbc >}}
 
-### Karta igogailua
+#### Karta igogailua
 {{< youtube qtZDWkRqGhQ >}}
 
-### Triunfoa
+#### Triunfoa
 {{< youtube 9-iZPx-mqes >}}
 
 ---
 
-{{</* spoiler text="Amaitu" */>}}
-Hau ez da amaitu. 49 irudia.
+~~Hau ez da amaitu. 49 irudia.~~
