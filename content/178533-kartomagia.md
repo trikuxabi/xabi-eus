@@ -1,5 +1,10 @@
 ---
 title: Aztikeriak 1 - Kartomagia
+date: 2026-11-04
+share: false
+show_date: false
+reading_time: false
+show_breadcrumb: false
 ---
 
 ## Sarrera
